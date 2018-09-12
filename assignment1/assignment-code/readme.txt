@@ -14,6 +14,7 @@
 
 
 2.KT_Project_Global1.java
+
 	This is used for calculating the distance by using Global Edit Distance with modified parameter.
 	* Parameter ‘namesFile’ in main class is absolute path of names.txt, which has to be set by users.
 	* Parameter ‘trainFile’ in main class is absolute path of train.txt, which has to be set by users.
